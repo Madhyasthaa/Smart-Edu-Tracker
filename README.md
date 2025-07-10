@@ -1,22 +1,25 @@
-# cra-template-tailwindcss-typescript
+# About my Smart edu Tracker
 
-A streamlined [Tailwind CSS v3.1](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
+Smart Edu Tracker is a mobile-accessible student performance tracking system designed to help teachers, students, and parents easily monitor academic progress. Built using Python, Django, and Java, it ensures secure access, efficient data handling, and a user-friendly experience.
 
-> This template installs and sets up [Tailwind CSS](https://tailwindcss.com) with TypeScript support.
+# Key Highlights
+Secure teacher login for managing student data
+Tracks attendance and internal marks
+Color-coded alerts for quick insights
+Mobile-friendly and easy to navigate
+Built with a strong focus on usability and performance
 
-## Usage
+This project reflects my skills in Python, Django, Java, and front-end development — and showcases my commitment to building meaningful, impactful tech solutions.
 
-```bash
-npx create-react-app --template tailwindcss-typescript
-```
+## Tech Stack
 
-## Credits
-
-This project was made possible thanks to the following projects.
-
-1. [GeoffSelby/cra-template-tailwindcss](https://github.com/GeoffSelby/cra-template-tailwindcss) - A streamlined Tailwind CSS template for Create React App (in JavaScript).
-2. [cra-template-typescript](https://github.com/facebook/create-react-app/tree/master/packages/cra-template-typescript) - An official TypeScript template for create-react-app.
+Backend: Python, Django
+Frontend: Java, HTML, CSS
+Database: SQL
 
 ## License
 
-MIT © [Sung M. Kim](https://sung.codes)
+MIT © Shashtishree Madhyastha
+
+
+
